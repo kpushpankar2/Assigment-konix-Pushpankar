@@ -2,7 +2,7 @@
 
 This project provides a RESTful API with endpoints for retrieving cryptocurrency statistics, deviation calculations, and a welcome message.
 
-**Base URL:** `https://assigment-konix-pushpankar.onrender.com/`
+**Base URL:** [https://assigment-konix-pushpankar.onrender.com/](https://assigment-konix-pushpankar.onrender.com/)
 
 ## Endpoints
 
@@ -53,31 +53,31 @@ This project provides a RESTful API with endpoints for retrieving cryptocurrency
 
 **Welcome Message:**
 
-`https://assigment-konix-pushpankar.onrender.com/`
+[https://assigment-konix-pushpankar.onrender.com/](https://assigment-konix-pushpankar.onrender.com/)
 
 **Ethereum Statistics:**
 
-`https://assigment-konix-pushpankar.onrender.com/stats?coin=ethereum`
+[https://assigment-konix-pushpankar.onrender.com/stats?coin=ethereum](https://assigment-konix-pushpankar.onrender.com/stats?coin=ethereum)
 
 **Bitcoin Statistics:**
 
-`https://assigment-konix-pushpankar.onrender.com/stats?coin=bitcoin`
+[https://assigment-konix-pushpankar.onrender.com/stats?coin=bitcoin](https://assigment-konix-pushpankar.onrender.com/stats?coin=bitcoin)
 
 **Matic Statistics:**
 
-`https://assigment-konix-pushpankar.onrender.com/stats?coin=matic`
+[https://assigment-konix-pushpankar.onrender.com/stats?coin=matic](https://assigment-konix-pushpankar.onrender.com/stats?coin=matic)
 
 **Ethereum Deviation:**
 
-`https://assigment-konix-pushpankar.onrender.com/deviation?coin=ethereum`
+[https://assigment-konix-pushpankar.onrender.com/deviation?coin=ethereum](https://assigment-konix-pushpankar.onrender.com/deviation?coin=ethereum)
 
 **Bitcoin Deviation:**
 
-`https://assigment-konix-pushpankar.onrender.com/deviation?coin=bitcoin`
+[https://assigment-konix-pushpankar.onrender.com/deviation?coin=bitcoin](https://assigment-konix-pushpankar.onrender.com/deviation?coin=bitcoin)
 
 **Matic Deviation:**
 
-`https://assigment-konix-pushpankar.onrender.com/deviation?coin=matic`
+[https://assigment-konix-pushpankar.onrender.com/deviation?coin=matic](https://assigment-konix-pushpankar.onrender.com/deviation?coin=matic)
 
 ## Supported Cryptocurrencies
 
