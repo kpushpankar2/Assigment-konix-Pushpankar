@@ -3,9 +3,12 @@ const Crypto = require('../models/Crypto');
 
 const router = express.Router();
 
-router.get('/',async(req,res) =>{
-   return "Welcome to Pushpankar Assignemt"
-})
+router.get('/', async (req, res) => {
+  res.status(200).json({
+      message: "Welcome to the Assignment of Pushpankar!"
+  });
+});
+
 
 router.get('/stats', async (req, res) => {
   try {
