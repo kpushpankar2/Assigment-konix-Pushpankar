@@ -3,6 +3,10 @@ const Crypto = require('../models/Crypto');
 
 const router = express.Router();
 
+router.get('/',async(req,res) =>{
+   return "Welcome to Pushpankar Assignemt"
+})
+
 router.get('/stats', async (req, res) => {
   try {
     const { coin } = req.query;
