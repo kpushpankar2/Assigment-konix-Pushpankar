@@ -2,8 +2,8 @@ const express = require('express');
 require('dotenv').config();
 const mongoose = require('mongoose');
 const cron = require('node-cron');
-const fetchCryptoData = require('../services/fetchCryptoData');
-const Routes = require('../routes/Routes');
+const fetchCryptoData = require('./services/fetchCryptoData');
+const Routes = require('./routes/Routes');
 
 
 const DB_URI = process.env.MONGO_URI;
